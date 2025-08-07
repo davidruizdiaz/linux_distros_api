@@ -21,11 +21,9 @@ Esta API te permite consultar una lista de distribuciones de Linux.
   - **Ejemplo:** `/search?name=ubuntu&category=desktop`
       - Esto devolverá todas las distros que coincidan con los filtros.
 
-
-
 ### Ejemplo de Retorno
 
-```json
+```
 [
   {
     "id": "e0e3b62f-7f9e-4c70-9831-299f18a80d4f",
